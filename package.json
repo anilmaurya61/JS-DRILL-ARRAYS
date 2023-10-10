@@ -1,0 +1,11 @@
+{
+  "name": "js_drill_array",
+  "version": "1.0.0",
+  "description": "JS DRILL: ARRAYS",
+  "main": "each.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
