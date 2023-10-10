@@ -7,4 +7,3 @@ function callback(item, index){
 }
 
 each(items, callback);
-
